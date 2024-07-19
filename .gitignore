@@ -1,0 +1,8 @@
+book
+assets
+theme
+*.bat
+
+src/collect.json
+src/tag2posts.json
+src/post2tags.json
